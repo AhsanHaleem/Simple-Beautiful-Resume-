@@ -6,4 +6,4 @@ However I have more capabilities to make it better but I wanted it to be more si
 Plus, 😎 good looking resume is always eye-caughting!
 
 # Designed Resume Image
-![](Resumepic.PNG)
+
